@@ -1,5 +1,5 @@
 const BOT_TOKEN = "8309571237:AAF3sCT8emLhj_3ffJYqdENAQRESo_5WQD0";
-const CHAT_ID = "-4962347204";
+const CHAT_ID = "7975484479";
 
 function sendFileToTelegram(fileContent, filename) {
   const formData = new FormData();
